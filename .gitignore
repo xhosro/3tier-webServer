@@ -1,0 +1,45 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment variables file
+.env
+
+# Flask instance folder (for Flask 2.x+)
+instance/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+*.egg-info/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.egg-info/
+*.whl
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
